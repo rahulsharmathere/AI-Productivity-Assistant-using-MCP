@@ -161,7 +161,7 @@ MCP/
 Clone the repository.
 
 ```bash
-git clone https://github.com/namankhandelwal1607/MCP.git
+git clone https://github.com/rahulsharmathere/AI-Productivity-Assistant-using-MCP.git
 
 cd MCP
 ```
